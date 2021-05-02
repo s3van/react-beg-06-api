@@ -1,3 +1,2 @@
-# API: [Todo]
+# API: Todo
 ## First project 
-
